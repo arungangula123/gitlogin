@@ -3,3 +3,8 @@ public void mains(){
 
 code
 }
+public void mains(){
+
+
+code
+}
